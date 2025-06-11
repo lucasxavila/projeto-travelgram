@@ -33,7 +33,7 @@ localização, número de países visitados, total de fotos e uma galeria visual
    └── index.html        # Página principal
    ```
 
-## Como Visualizar
+## Como Executar
 
 1. Clone este repositório:
    ```bash
